@@ -1,7 +1,7 @@
 starter-srpid
 =============
 
-Starter project for Sudha Piddaparti
+Starter project for srpid
 
 Getting started
 ---------------
